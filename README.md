@@ -4,4 +4,4 @@ The project is about meal managing. It is small app for seeing different kinds o
 
 ## Screenshots
 
-![Home](Screenshots/1.png?raw=true "Home")
+![Home](Screenshots/1.png =100x400?raw=true "Home")

@@ -4,7 +4,7 @@ The project is about meal managing. It is small app for seeing different kinds o
 
 ## Screenshots
 
-![Home](https://github.com/tuhinsaud4614/flutter_mealapp/blob/master/Screenshots/1.png =200 "Home")
+![Home](https://github.com/tuhinsaud4614/flutter_mealapp/blob/master/Screenshots/1.png =200x "Home")
 ![Detail](https://github.com/tuhinsaud4614/flutter_mealapp/blob/master/Screenshots/2.png?raw=true "Detail")
 ![Ingredients](https://github.com/tuhinsaud4614/flutter_mealapp/blob/master/Screenshots/3.png?raw=true "Ingredients")
 ![favorites](https://github.com/tuhinsaud4614/flutter_mealapp/blob/master/Screenshots/4.png?raw=true "favorites")
